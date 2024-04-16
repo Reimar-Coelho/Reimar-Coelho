@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Circuits**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Reimar-Coelho/PersonalPortfolio.git](https://github.com/Reimar-Coelho/PersonalPortfolio.git)
+- 👨‍💻 All of my projects are available at [https://https://github.com/Reimar-Coelho](https://https://github.com/Reimar-Coelho)
 
 - 📫 How to reach me **reimarcoelhoferreirafilho@gmail.com**
 
