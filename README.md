@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reimar</h1>
-<h3 align="center">Programmer, ciruit and automation enthusiast</h3>
+<h3 align="center">Programmer, circuit and automation enthusiast</h3>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
 
