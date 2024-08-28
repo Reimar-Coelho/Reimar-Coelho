@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reimar</h1>
 <h3 align="center">Programmer, ciruit and automation enthusiast</h3>
 
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
+
 - 🌱 I’m currently learning **Circuits**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Reimar-Coelho/PersonalPortfolio.git](https://github.com/Reimar-Coelho/PersonalPortfolio.git)
@@ -19,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reimar-coelho&show_icons=true&layout=compact&hide_border=true&title_color=76c7fc&text_color=c9d1d9&bg_color=0d1117" alt="reimar-coelho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reimar-coelho&show_icons=true&layout=compact&hide_border=true&title_color=76c7fc&text_color=c9d1d9&bg_color=0d1117" alt="reimar-coelho" /></p>
+
+
+###
