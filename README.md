@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Circuits**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Reimar-Coelho/PersonalPortfolio.git](https://github.com/Reimar-Coelho/PersonalPortfolio.git)
+- 👨‍💻 My last project [FIXY - serviços de alvenaria](https://www.fixy-repair.com.br)
 
 - 📫 How to reach me **reimarcoelhoferreirafilho@gmail.com**
 
