@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Circuits**
 
-- 👨‍💻 My last project [FIXY - serviços de alvenaria](https://www.fixy-repair.com.br)
+- 👨‍💻 My last project - **[FIXY - serviços de alvenaria](https://www.fixy-repair.com.br)**
 
 - 📫 How to reach me **reimarcoelhoferreirafilho@gmail.com**
 
