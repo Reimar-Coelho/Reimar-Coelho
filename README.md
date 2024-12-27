@@ -3,7 +3,7 @@
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
 
-- 🌱 I’m currently learning **Circuits**
+- 🌱 I’m currently learning **Ruby**
 
 - 👨‍💻 My last project - **[FIXY - serviços de alvenaria](https://www.fixy-repair.com.br)**
 
