@@ -21,7 +21,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cs,net,python,nodejs,express,vite,c,cpp,elixir,lua,ruby"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cs,c,cpp,python,nodejs,express,vite,elixir,lua,ruby"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
