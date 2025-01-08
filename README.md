@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reimar-coelho&show_icons=true&layout=compact&hide_border=true&title_color=76c7fc&text_color=c9d1d9&bg_color=0d1117" alt="reimar-coelho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/user-attachments/assets/e46c2ff5-c82a-49b6-9fff-459db051bfdf" alt="reimar-coelho" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/user-attachments/assets/9a840560-bcb5-4111-bbe4-3c6d538dcdde" alt="reimar-coelho" /></p>
 
 ###
