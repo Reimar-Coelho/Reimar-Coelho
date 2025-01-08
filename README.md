@@ -57,4 +57,20 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+```python
+class Reimar():
+    
+  def __init__(self):
+    self.name = "Reimar Coelho";
+    self.age = "17";
+    self.location = "São Paulo, Brazil";
+    self.portfolio = "https://reimar-coelho.github.io/PersonalPortfolio/";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Reimar()
+```
+
 ###
