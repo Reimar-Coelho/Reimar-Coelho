@@ -65,6 +65,7 @@ class Reimar():
     self.age = "17";
     self.location = "São Paulo, Brazil";
     self.portfolio = "https://reimar-coelho.github.io/PersonalPortfolio/";
+    self.favGame = "Alan Wake 2";
   
   def __str__(self):
     return self.name
@@ -72,5 +73,5 @@ class Reimar():
 if __name__ == '__main__':
     me = Reimar()
 ```
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Teste&author=Reimar)
 ###
