@@ -74,7 +74,7 @@ if __name__ == '__main__':
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/d49fca2a-89e0-42dd-b950-0e3f40ae56df"></h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/73f23f07-8378-44bf-a4ee-34b2e32c0716"></h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Teste&author=Reimar)
 ###
