@@ -1,4 +1,10 @@
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Reimar+👋" alt="Typing SVG" /></a></h2>
+
+<h3 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=37&duration=1&color=FF0000&center=true&repeat=false&width=435&lines=USE+DARK+DEFAULT" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=37&duration=1&color=FF0000&center=true&repeat=false&width=435&lines=GITHUB+THEME" alt="Typing SVG" /></a>
+</h3>
+
 <h3 align="center">Programmer, circuit and automation enthusiast</h3>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
