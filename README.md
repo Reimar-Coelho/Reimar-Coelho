@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Reimar</h1>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Reimar+👋" alt="Typing SVG" /></a></h2>
 <h3 align="center">Programmer, circuit and automation enthusiast</h3>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
@@ -54,8 +54,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p>&nbsp;<img align="center" src="https://github.com/user-attachments/assets/9a840560-bcb5-4111-bbe4-3c6d538dcdde" alt="reimar-coelho" /></p>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ```python
 class Reimar():
@@ -73,5 +72,9 @@ class Reimar():
 if __name__ == '__main__':
     me = Reimar()
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center"><img src="https://github.com/user-attachments/assets/d49fca2a-89e0-42dd-b950-0e3f40ae56df"></h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Teste&author=Reimar)
 ###
