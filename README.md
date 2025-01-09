@@ -82,5 +82,10 @@ if __name__ == '__main__':
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/1f101862-30d1-466d-85d6-83a1b7cbf4d5"></h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Teste&author=Reimar)
+##
+
+<h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=A+Inteli+tem+o+objetivo+de+ser+aquilo+que+a+gente+propõe+ao+melhor+que+possa+existir,+seja+no+Brasil+ou+fora.&author=André+Esteves"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Desde+2019,+o+Inteli+tem+sido+o+projeto+dos+sonhos+de+um+time+de+inconformados.+Juntos,+assumimos+a+missão+de+criar+do+zero+uma+faculdade+de+tecnologia+comprometida+em+formar+as+lideranças+do+futuro.&author=Maira+Habimorad"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Acho+que+nós,+líderes+empresariais,+líderes+sociais+temos+a+obrigação+de+sempre+estar+buscando+contribuir+para+uma+sociedade+melhor.&author=Roberto+Sallouti"></h3>
+
+##
+
 ###
