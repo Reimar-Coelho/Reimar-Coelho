@@ -1,10 +1,5 @@
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Reimar+👋" alt="Typing SVG" /></a></h2>
 
-<h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=37&duration=1&color=FF0000&center=true&repeat=false&width=435&lines=USE+DARK+DEFAULT" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=37&duration=1&color=FF0000&center=true&repeat=false&width=435&lines=GITHUB+THEME" alt="Typing SVG" /></a>
-</h3>
-
 
 
 <h3 align="center">Visitor Counter</h3>
@@ -13,9 +8,10 @@
   <img src="https://profile-counter.glitch.me/Reimar-Coelho/count.svg?"  />
 </div>
 
-#
+
 <h3 align="center">Programmer, circuit and automation enthusiast</h3>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
+<br>
 
 - 🌱 I’m currently learning **Ruby**
 
@@ -23,7 +19,11 @@
 
 - 📫 How to reach me **reimarcoelhoferreirafilho@gmail.com**
 
-## <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b> Connect with me</b>
+<br>
+
+##
+
+<img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b> Connect with me</b>
 
 <p align="left">
 <a href="https://linkedin.com/in/reimar-coelho-ferreira-filho-305655305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reimar coelho ferreira filho" height="30" width="40" /></a>
