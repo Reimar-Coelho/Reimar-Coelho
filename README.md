@@ -11,7 +11,7 @@
 
 <h3 align="center">Programmer, circuit and automation enthusiast</h3>
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
-<br>
+
 
 - 🌱 I’m currently learning **Ruby**
 
@@ -19,11 +19,10 @@
 
 - 📫 How to reach me **reimarcoelhoferreirafilho@gmail.com**
 
-<br>
 
-##
 
-<img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b> Connect with me</b>
+
+## <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b> Connect with me</b>
 
 <p align="left">
 <a href="https://linkedin.com/in/reimar-coelho-ferreira-filho-305655305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reimar coelho ferreira filho" height="30" width="40" /></a>
