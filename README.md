@@ -34,11 +34,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cs,c,cpp,python,nodejs,express,lua,ruby"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cs,c,cpp,python,express,lua,ruby,rust"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,figma,angular,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,html,css,js,ts,figma,angular,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
