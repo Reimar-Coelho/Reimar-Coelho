@@ -13,7 +13,7 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNiYXN2bGYxcnZ6dDlyMjkwam5iMzlrZjB1YWdocnkyZm9peGd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy.webp"  />
 
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 My last project - **[FIXY - serviços de alvenaria](https://www.fixy-repair.com.br)**
 
@@ -74,7 +74,7 @@ class Reimar():
     
   def __init__(self):
     self.name = "Reimar Coelho";
-    self.age = "17";
+    self.age = "18";
     self.location = "São Paulo, Brazil";
     self.portfolio = "https://reimar-coelho.github.io/PersonalPortfolio/";
     self.favGame = "Alan Wake 2";
@@ -99,16 +99,6 @@ Reimar
 :-------------------------:|
 Sou o Reimar, uma pessoa muito curiosa, do tipo que adora desmontar e entender como as coisas funcionam. Sempre busco aprender coisas novas e gosto de desafios que me fazem melhorar minhas habilidades. Tenho um lado bem persistente, principalmente quando se trata de alcançar algo importante para mim, como agora, que vou aproveitar esta grande oportunidade de estudar no Inteli.
 
-Rodrigo             
-:-------------------------:|
-Sou o Rodrigo, eu serei o guia e a pessoa que acompanhará o Reimar nessa jornada incrível como seu **buddy**, acompanhando ele em tarefas e dando o suporte necessário para que ele tenha a melhor esperiência que um calouro poderia ter
-
-
-
-Reimar            |  Rodrigo
-:-------------------------:|:-------------------------:
-<img height="300" width="300" src="https://github.com/user-attachments/assets/a70e5248-b9bd-46bb-b4d5-2dbda689f338">   |  <img height="300" width="300" src="https://github.com/user-attachments/assets/1b76da5e-9f90-4102-bfe3-01834303d534"> 
-<a href="https://github.com/Reimar-Coelho" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Reimar" height="60" width="60" /></a>|<a href="https://github.com/Rodrigo-07" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Rafael" height="60" width="60" /></a>
 
 
 ###
